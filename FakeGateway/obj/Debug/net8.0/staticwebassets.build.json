@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OynBEoT2X/8bnnuXh/RMzgkAHkDjIS9zUphzOWAMbOg=",
+  "Source": "FakeGateway",
+  "BasePath": "_content/FakeGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
